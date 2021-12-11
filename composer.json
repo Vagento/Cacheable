@@ -1,0 +1,14 @@
+{
+    "name": "vagento/cacheable",
+    "type": "vagento-module",
+    "license": "MIT",
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^v8.65"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vagento\\Cacheable\\": ""
+        }
+    }
+}
